@@ -1,0 +1,13 @@
+# 이것은 주석이다.
+# info.txt 파일은 제외
+info.txt
+# 모든 .db 파일은 제외
+*.db
+# src 폴더의 모든 내용들 제외
+src/
+# src 폴더에 .log 파일만 제외
+src/*.log 
+# src 폴더 및 안쪽 폴더에 있는 .log 파일만 제외
+src/**/*.log
+# assets 폴더는 제외
+assets/

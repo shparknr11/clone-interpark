@@ -1,0 +1,39 @@
+{
+  "ticket_total": 4,
+  "ticket_1": {
+    "link": "",
+    "poster": "musical1.gif",
+    "rank": 1,
+    "title": "뮤지컬〈영웅〉- 블루스퀘어",
+    "hall": "블루스퀘어 신한카드홀",
+    "date": "2023.03.17 ~ 2023.05.21",
+    "sale": "단독판매"
+  },
+  "ticket_2": {
+    "link": "",
+    "poster": "musical1.gif",
+    "rank": 1,
+    "title": "뮤지컬〈영웅〉- 블루스퀘어",
+    "hall": "블루스퀘어 신한카드홀",
+    "date": "2023.03.17 ~ 2023.05.21",
+    "sale": "단독판매"
+  },
+  "ticket_3": {
+    "link": "",
+    "poster": "musical1.gif",
+    "rank": 1,
+    "title": "뮤지컬〈영웅〉- 블루스퀘어",
+    "hall": "블루스퀘어 신한카드홀",
+    "date": "2023.03.17 ~ 2023.05.21",
+    "sale": "단독판매"
+  },
+  "ticket_4": {
+    "link": "",
+    "poster": "musical1.gif",
+    "rank": 1,
+    "title": "뮤지컬〈영웅〉- 블루스퀘어",
+    "hall": "블루스퀘어 신한카드홀",
+    "date": "2023.03.17 ~ 2023.05.21",
+    "sale": "단독판매"
+  }
+}

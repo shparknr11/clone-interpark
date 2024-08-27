@@ -1,0 +1,9 @@
+{
+  "good_count": 6,
+  "good_1": { "name": "제품1", "img": "promotion1.jpg", "link": "" },
+  "good_2": { "name": "제품2", "img": "promotion2.png", "link": "" },
+  "good_3": { "name": "제품3", "img": "promotion3.jpg", "link": "" },
+  "good_4": { "name": "제품4", "img": "promotion4.jpg", "link": "" },
+  "good_5": { "name": "제품5", "img": "promotion5.jpg", "link": "" },
+  "good_6": { "name": "제품6", "img": "promotion6.jpg", "link": "" }
+}

@@ -1,0 +1,31 @@
+{
+  "good_count": 4,
+  "good_1": {
+    "link": "#",
+    "pic": "good1.png",
+    "product": "맥 MAC 립스틱",
+    "ratio": 5,
+    "price": "11,950"
+  },
+  "good_2": {
+    "link": "#",
+    "pic": "good2.jpg",
+    "product": "[장터할매]2023년 햇양파 중품/짱아치용 특품 3kg~10kg",
+    "ratio": 5,
+    "price": "11,950"
+  },
+  "good_3": {
+    "link": "#",
+    "pic": "good3.jpg",
+    "product": " QCY GTS 스마트워치 2세대 블랙/ 블루투스 통화가능/실리콘 스트랩 메탈 스트랩 TPU 보호필름 추가구매",
+    "ratio": 5,
+    "price": "11,950"
+  },
+  "good_4": {
+    "link": "#",
+    "pic": "good4.jpg",
+    "product": "[베베당] 유기농 롱스틱 골고루 10봉 세트",
+    "ratio": 5,
+    "price": "11,950"
+  }
+}
